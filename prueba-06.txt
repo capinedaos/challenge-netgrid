@@ -1,0 +1,8 @@
+¿Cuáles de los siguientes son ciertos con respecto a los pseudoselectores ::antes y 
+::después?
+1. No se aplica a elementos de cierre automático como <img/>, <hr/> y <input/>
+2. No puede especificar estilos en línea para pseudoelementos.
+3. No puede crear pseudo elementos en CSS en línea.
+4. Ninguna de las anteriores
+
+Respuesta => 1. No se aplica a elementos de cierre automático como <img/>, <hr/> y <input/>
